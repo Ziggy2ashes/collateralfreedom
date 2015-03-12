@@ -5,7 +5,6 @@
 1. [The Tibet Post](https://tp1.global.ssl.fastly.net/)
 1. [Dan Lam Bao](https://dlb1.global.ssl.fastly.net/)
 1. [Mingjing News](https://mn1.global.ssl.fastly.net/)
-1. [El Pais](https://elp1.global.ssl.fastly.net)
 1. [Hablemos Press](https://hp1.global.ssl.fastly.net/)
 1. [Gooya News](https://gn1.global.ssl.fastly.net/)
 1. [Gulf Center for Human Rights](https://gc1.global.ssl.fastly.net/)
