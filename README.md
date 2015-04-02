@@ -1,6 +1,6 @@
 # CollateralFreedom
 
-1. [Grani.ru](https://gr1.global.ssl.fastly.net/)
+1. [Grani.ru](https://d2i3c4yj91a1b5.cloudfront.net/)
 1. [Fergananews.com](https://fg1.global.ssl.fastly.net/)
 1. [The Tibet Post](https://tp1.global.ssl.fastly.net/)
 1. [Dan Lam Bao](https://dlb1.global.ssl.fastly.net/)
