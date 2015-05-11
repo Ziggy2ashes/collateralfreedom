@@ -9,6 +9,8 @@
 1. [Gooya News](https://gn1.global.ssl.fastly.net/)
 1. [Gulf Center for Human Rights](https://gc1.global.ssl.fastly.net/)
 1. [Bahrain Mirror](https://bahrainmirror.global.ssl.fastly.net/)
+1. [IJAVN](https://d1s66ldlhegqs2.cloudfront.net/)
+1. [Chrono-TM](https://d24s49bpilo0f2.cloudfront.net/)
 
 ## English
 
