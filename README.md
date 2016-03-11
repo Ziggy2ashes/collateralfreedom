@@ -1,5 +1,11 @@
 # CollateralFreedom
 
+1. [Sendika.org](https://sdk.global.ssl.fastly.net) 
+2. [Sarawakreport.org](https://swk.global.ssl.fastly.net)
+3. [Esch.org](https://euh.global.ssl.fastly.net)
+4. [Boxun.com](https://box1.global.ssl.fastly.net)
+5. [Vietnamhumanrightsdefenders.net](https://dtd.global.ssl.fastly.net)
+6. [Rfa.org](https://rfs.global.ssl.fastly.net)
 1. [Grani.ru](https://d2i3c4yj91a1b5.cloudfront.net/)
 1. [Fergananews.com](https://fg1.global.ssl.fastly.net/)
 1. [The Tibet Post](https://tp1.global.ssl.fastly.net/)
