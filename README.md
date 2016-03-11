@@ -1,6 +1,6 @@
 # CollateralFreedom
 
-1. [Sendika.org](https://sdk.global.ssl.fastly.net) 
+1. [Sendika9.org](https://sdk.global.ssl.fastly.net) 
 2. [Sarawakreport.org](https://swk.global.ssl.fastly.net)
 3. [Esch.org](https://euh.global.ssl.fastly.net)
 4. [Boxun.com](https://box1.global.ssl.fastly.net)
